@@ -11,7 +11,7 @@ extract meaningful public insights from large-scale Twitter data collected durin
 
 
 # Methodology
-  1. Data Preprocessing
+     1. Data Preprocessing
 	•	Cleaning, language filtering, tokenisation, and stopword removal.
 	2.	Sentiment Classification
 	•	Fine-tuned BERTweet-base using labelled COVID-19 tweet subsets.
