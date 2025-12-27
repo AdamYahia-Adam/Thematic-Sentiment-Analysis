@@ -165,4 +165,4 @@ provide a foundation for understanding societal responses to health emergencies 
  
 # Citation
 If you use this repository, please cite:
-Yahia, A. (2025). Mine Social Media to Gain Insight into Pandemic: Thematic Sentiment Analysis of COVID-19 Tweets.
+A. Yahia. (2025). Mine Social Media to Gain Insight into Pandemic: Thematic Sentiment Analysis of COVID-19 Tweets.
